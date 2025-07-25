@@ -23,7 +23,8 @@ To use the dataset, either clone this repository or use its Hugging Face reposit
 
 
 ## Contact
-For help or issues using LayoutLMv3, please email [Benno Uthayasooriyar](https://github.com/buthaya) or submit a GitHub issue.
+For help or issues using Payslips, please email [Benno Uthayasooriyar](https://github.com/buthaya) or submit a GitHub issue.
+
 ## License
 This dataset is released under the MIT License. See [LICENSE](LICENSE) for details.
 
